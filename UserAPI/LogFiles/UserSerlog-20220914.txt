@@ -1,0 +1,5 @@
+2022-09-14T09:26:24.7844106+05:30  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2022-09-14T09:26:24.8146838+05:30  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2022-09-14T09:26:24.8370369+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-09-14T09:26:24.8800298+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-09-14T09:26:24.9177067+05:30  [INF] Content root path: "C:\Users\cogdotnet1433\Desktop\LearningManagementSystemApp_BackEnd\UserAPI" (b5d60022)

@@ -1,0 +1,6 @@
+2022-01-11T19:28:17.2268680+05:30  [INF] Now listening on: "https://localhost:5011" (d826f4b8)
+2022-01-11T19:28:17.2305700+05:30  [INF] Now listening on: "http://localhost:5010" (d826f4b8)
+2022-01-11T19:28:17.2307887+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-01-11T19:28:17.2308226+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-01-11T19:28:17.2308407+05:30  [INF] Content root path: "C:\Users\User\Desktop\FlightBookingApp\AirlineAPI" (b5d60022)
+2022-01-11T19:29:22.7725175+05:30  [INF] Application is shutting down... (90f52c38)
