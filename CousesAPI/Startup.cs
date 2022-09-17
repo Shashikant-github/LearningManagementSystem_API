@@ -128,8 +128,8 @@ namespace CoursesAPI
             {
                 app.UseDeveloperExceptionPage();
                 //in Dev
-                //app.UseSwagger();
-                //app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "AirlineAPI v1"));
+                app.UseSwagger();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "CousesAPI v1"));
             }
             //in Prod Azure
             app.UseSwagger();
